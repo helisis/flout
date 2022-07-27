@@ -1,0 +1,9 @@
+.img_container{
+    float: left;
+    width: 25%;
+    box-sizing: border-box;
+    padding: 0 5px;
+}
+.img_container>img{
+    width: 100%;
+}
